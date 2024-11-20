@@ -1,0 +1,15 @@
+public class Firstprogram
+{
+ public static void main(String[] args)
+ {
+  System.out.println("studentID:2413111101");
+  System.out.println("studentName:Pongpanot Rujiviwattanakul");
+  System.out.println("Topic:github");
+  System.out.println("Date:20/11/2024");
+  JOtionPane.showMessageDialog(null,
+                               "studentID:2413111101"+
+                               "\nstudentName:Pongpanot Rujiviwattanakul"+
+                               "\nDate:20/11/2024"+
+                               "\nTopic:Github";
+ }
+}
