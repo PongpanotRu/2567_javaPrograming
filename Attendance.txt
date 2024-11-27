@@ -1,4 +1,4 @@
 StudentID:2413111101
 StudentName Pongpanot Rujiviwattanakul
-Topic:github
-Date:11/20/2024
+Topic:Display, Variable and Input
+Date:11/27/2024
