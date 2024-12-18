@@ -12,8 +12,6 @@ public class Lab403 {
 		
 		int space = fullName.indexOf(' ');
 		firstName = fullName.substring(0,space);
-		
-		//System.out.println(firstName);
 		System.out.println(abbreviatName(fullName)+firstName);
 		
 		

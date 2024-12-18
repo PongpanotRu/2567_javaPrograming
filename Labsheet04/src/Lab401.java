@@ -6,7 +6,6 @@ public class Lab401 {
 		inputEmail();
 
 	}
-	
 	public static void inputEmail() {
 		String ans;
 		String varEmail;
