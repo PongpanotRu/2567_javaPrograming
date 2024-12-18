@@ -15,6 +15,7 @@ public class Lab307 {
         }
         input.close();
     }
+	
     public static boolean isPalindrome(String str) {
         str = str.replaceAll("\\s+", "").toLowerCase();
         int left = 0;
